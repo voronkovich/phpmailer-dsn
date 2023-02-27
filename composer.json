@@ -1,0 +1,26 @@
+{
+    "name": "voronkovich/phpmailer-dsn",
+    "description": "Library for configuring PHPMailer with DSN string",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Voronkovich",
+            "email": "oleg-voronkovich@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Voronkovich\\PHPMailerDSN\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Voronkovich\\PHPMailerDSN\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
