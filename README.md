@@ -1,5 +1,7 @@
 # phpmailer-dsn
 
+[![CI](https://github.com/voronkovich/phpmailer-dsn/actions/workflows/ci.yml/badge.svg)](https://github.com/voronkovich/phpmailer-dsn/actions/workflows/ci.yml)
+
 Library for configuring [PHPMailer](https://github.com/PHPMailer/PHPMailer) with [DSN string](https://en.wikipedia.org/wiki/Data_source_name).
 
 ## Installation
