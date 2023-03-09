@@ -4,6 +4,14 @@
 
 Library for configuring [PHPMailer](https://github.com/PHPMailer/PHPMailer) with [DSN string](https://en.wikipedia.org/wiki/Data_source_name).
 
+# Abandoned!!!
+
+This feature [was merged to PHPMailer](https://github.com/PHPMailer/PHPMailer/pull/2874). Use the PHPMailer itself instead:
+
+```sh
+composer require phpmailer/phpmailer:^6.8.0
+```
+
 ## Installation
 
 ```sh
